@@ -16,10 +16,6 @@ splash_screen_fhd=pkg:/images/multi-channel-splash-FHD.jpg
 splash_color=#808080
 splash_min_time=0
 
-# Roku Ad Framework Meta Data
-requires_audiometadata=1
-bs_libs_required=roku_ads_lib
-
 
 # Resolution
 ui_resolutions=fhd
